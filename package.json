@@ -20,7 +20,8 @@
     "abduraufsherkulov",
     "Resumé",
     "Abdurauf Sherkulov",
-    "CV"
+    "CV",
+    "Full Stack Devloper"
   ],
   "bin": {
     "abduraufsherkulov": "./index.js"

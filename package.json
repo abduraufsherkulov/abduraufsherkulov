@@ -1,29 +1,29 @@
 {
-  "name": "abduraufsherkulov",
-  "version": "1.0.2",
-  "description": "Resumé of Abdurauf Sherkulov",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Abdurauf Sherkulov",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^2.4.2",
-    "inquirer": "^6.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abduraufsherkulov/abduraufsherkulov.git"
-  },
-  "keywords": [
-    "abduraufsherkulov",
-    "Resumé",
-    "Abdurauf Sherkulov",
-    "CV",
-    "Full Stack Devloper"
-  ],
-  "bin": {
-    "abduraufsherkulov": "./index.js"
-  }
+	"name": "abduraufsherkulov",
+	"version": "1.0.2",
+	"description": "Resumé of Abdurauf Sherkulov",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Abdurauf Sherkulov",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^2.4.2",
+		"inquirer": "^6.3.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/abduraufsherkulov/abduraufsherkulov.git"
+	},
+	"keywords": [
+		"abduraufsherkulov",
+		"Résumé",
+		"Abdurauf Sherkulov",
+		"CV",
+		"Full Stack Devloper"
+	],
+	"bin": {
+		"abduraufsherkulov": "./index.js"
+	}
 }

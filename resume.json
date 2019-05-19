@@ -3,10 +3,11 @@
     "Westminster International University in Tashkent"
   ],
   "Past Experience": [
-    "Deadline INC.",
-    "Delivera"
+    "Delivera (2018-)",
+    "Deadline INC. (2018-)",
+    "Ctrl+ (2016-2017)"
   ],
-  "Tech Stack": ["Vanilla.js", "React.js", "React Native"],
-  "Projects": ["deadline.uz", "delivera.uz", "artbazaar.uz"],
-  "Contact": ["abduraufsherkulov@gmail.com"]
+  "Tech Stack": ["JS", "React.js", "React Native", "Node.js", "PHP", "CodeIgniter", "SQL", "Git", "Grunt", "Sass", "HTML/CSS", "Bootrstrap", "Materialize"],
+  "Projects": ["percentera.uz", "delivera.uz", "artbazaar.uz"],
+  "Contact": ["abduraufsherkulov@gmail.com", "+998933299939"]
 }
